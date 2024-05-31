@@ -1,0 +1,94 @@
+{
+    "blocks": {
+      "block1": {
+        "items": [
+          {
+            "id": 1,
+            "image": "img/products-block/01.png",
+            "title": "<h4>Indoors Tropical Plant</h4>",
+            "starRatingValue": "4.5",
+            "starRatingQuantity": "<span>134</span>",
+            "priceName": "Price",
+            "priceValue": "$150",
+            "button": "Add To Cart"
+         },
+          {
+            "id": 2,
+            "image": "img/products-block/02.png",
+            "title": "<h4>Monstera Deliciosa Care</h4>",
+            "starRatingValue": "4.6",
+            "starRatingQuantity": "<span>57</span>",
+            "priceName": "Price",
+            "priceValue": "$200",
+            "button": "Add To Cart"
+
+        },
+        {
+          "id": 3,
+          "image": "img/products-block/03.png",
+          "title": "<h4>Indoors Leaf Potted</h4>",
+          "starRatingValue": "4.7",
+          "starRatingQuantity": "<span>79</span>",
+          "priceName": "Price",
+          "priceValue": "$180",
+          "button": "Add To Cart"
+
+        },
+        {
+          "id": 4,
+          "image": "img/products-block/02.png",
+          "title": "<h4>Indoors Tropical Plant</h4>",
+          "starRatingValue": "5",
+          "starRatingQuantity": "<span>115</span>",
+          "priceName": "Price",
+          "priceValue": "$135",
+          "button": "Add To Cart"
+        },
+        {
+          "id": 5,
+          "image": "img/products-block/03.png",
+          "title": "<h4>Indoors Leaf Potted</h4>",
+          "starRatingValue": "4.7",
+          "starRatingQuantity": "<span>51</span>",
+          "priceName": "Price",
+          "priceValue": "$185",
+          "button": "Add To Cart"
+
+        },
+        {
+          "id": 6,
+          "image": "img/products-block/01.png",
+          "title": "<h4>Indoors Leaf Potted</h4>",
+          "starRatingValue": "4.7",
+          "starRatingQuantity": "<span>31</span>",
+          "priceName": "Price",
+          "priceValue": "$85",
+          "button": "Add To Cart"
+
+        },
+        {
+          "id": 7,
+          "image": "img/products-block/02.png",
+          "title": "<h4>Indoors Leaf Potted</h4>",
+          "starRatingValue": "4.5",
+          "starRatingQuantity": "<span>24</span>",
+          "priceName": "Price",
+          "priceValue": "$71",
+          "button": "Add To Cart"
+        }
+        
+        ],
+        "hasMore": true
+      }
+    }
+}
+  
+
+
+
+
+
+
+
+
+
